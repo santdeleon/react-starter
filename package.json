@@ -47,7 +47,7 @@
   },
   "config": {
     "commitizen": {
-      "path": "./client/node_modules/cz-conventional-changelog"
+      "path": "./node_modules/cz-conventional-changelog"
     }
   },
   "husky": {
