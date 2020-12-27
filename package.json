@@ -1,5 +1,5 @@
 {
-  "name": "react-starter",
+  "name": "@santdeleon/react-starter",
   "version": "0.2.0",
   "private": true,
   "author": "Santiago Deleon",
@@ -10,6 +10,11 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
+  "keywords": [
+    "santdeleon",
+    "react",
+    "react-starter"
+  ],
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",

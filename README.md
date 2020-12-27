@@ -1,4 +1,4 @@
-# React Starter
+# @santdeleon/react-starter
 
 > A boilerplate repository for building React applications
 
